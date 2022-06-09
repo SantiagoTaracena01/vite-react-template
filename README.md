@@ -4,7 +4,7 @@
 
 This is a template for projects that use Vite, React and Sass. In this case, Vite is a tool used
 to bundle a project into a couple of files that can easily be deployed into the Internet. React
-is a library that allows to develop using the famous .jsx syntax, that makes component-oriented
+is a library that allows to develop using the famous `.jsx` syntax, that makes component-oriented
 development easy. Finally, Sass is a CSS preprocessor with an amazing and clean syntax to read
 and use while developing styles.
 
@@ -17,7 +17,10 @@ command in a terminal.
 `git clone https://github.com/SantiagoTaracena01/vite-react-template`
 
 This will clone this repository into your computer. My personal recommendation would be to rename
-the directory and give it the name of the project you're gonna work on.
+the directory and give it the name of the project you're gonna work on. You also should change the
+project's name located in `package.json`.
+
+Finally, you'll just need to install dependencies running the `yarn` command in the terminal.
 
 ### Features
 
